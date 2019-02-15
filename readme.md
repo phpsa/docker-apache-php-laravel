@@ -25,6 +25,7 @@ Note: OS recommendation - Linux Ubuntu based.
     docker-compose build
     make start
     make composer-install
+    make make env-local
     ```
 2. Add domain to local 'hosts' file:
     ```
